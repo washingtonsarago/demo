@@ -1,0 +1,11 @@
+C:\Users\danie\Desktop\demo\GrupoNC\GrupoNC.DemoProject.Contract\bin\Debug\net7.0\GrupoNC.DemoProject.Contract.deps.json
+C:\Users\danie\Desktop\demo\GrupoNC\GrupoNC.DemoProject.Contract\bin\Debug\net7.0\GrupoNC.DemoProject.Contract.dll
+C:\Users\danie\Desktop\demo\GrupoNC\GrupoNC.DemoProject.Contract\bin\Debug\net7.0\GrupoNC.DemoProject.Contract.pdb
+C:\Users\danie\Desktop\demo\GrupoNC\GrupoNC.DemoProject.Contract\obj\Debug\net7.0\GrupoNC.DemoProject.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\demo\GrupoNC\GrupoNC.DemoProject.Contract\obj\Debug\net7.0\GrupoNC.DemoProject.Contract.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\demo\GrupoNC\GrupoNC.DemoProject.Contract\obj\Debug\net7.0\GrupoNC.DemoProject.Contract.AssemblyInfo.cs
+C:\Users\danie\Desktop\demo\GrupoNC\GrupoNC.DemoProject.Contract\obj\Debug\net7.0\GrupoNC.DemoProject.Contract.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\demo\GrupoNC\GrupoNC.DemoProject.Contract\obj\Debug\net7.0\GrupoNC.DemoProject.Contract.dll
+C:\Users\danie\Desktop\demo\GrupoNC\GrupoNC.DemoProject.Contract\obj\Debug\net7.0\refint\GrupoNC.DemoProject.Contract.dll
+C:\Users\danie\Desktop\demo\GrupoNC\GrupoNC.DemoProject.Contract\obj\Debug\net7.0\GrupoNC.DemoProject.Contract.pdb
+C:\Users\danie\Desktop\demo\GrupoNC\GrupoNC.DemoProject.Contract\obj\Debug\net7.0\ref\GrupoNC.DemoProject.Contract.dll
